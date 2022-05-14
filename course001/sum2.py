@@ -1,6 +1,6 @@
 # 本程序用于计算两个数a, b的和
-print('This program is used for calculating the sum of two numbers, n1 and n2')
-n1 = int(input('Please enter the first number n1:'))
-n2 = int(input('Please enter the second number n2:'))
+print('本程序用于计算两个整数之和')
+n1 = int(input('请输入第一个整数，输入完成后按enter继续:'))
+n2 = int(input('请输入第二个整数，输入完成后按enter继续:'))
 sum = n1+n2
 print('The sum of n1 and n2:',sum)
