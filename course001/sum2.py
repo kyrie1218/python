@@ -3,4 +3,4 @@ print('本程序用于计算两个整数之和')
 n1 = int(input('请输入第一个整数，输入完成后按enter继续:'))
 n2 = int(input('请输入第二个整数，输入完成后按enter继续:'))
 sum = n1+n2
-print('The sum of n1 and n2:',sum)
+print('两整数之和:',sum)
